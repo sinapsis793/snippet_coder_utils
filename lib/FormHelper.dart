@@ -391,7 +391,6 @@ class FormHelper {
                   width: enabledBorderWidth,
                 ),
               ),
-              borderRadius: BorderRadius.circular(16.0),
               border: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(borderRadius),
                 borderSide: BorderSide(
