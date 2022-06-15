@@ -294,10 +294,10 @@ class FormHelper {
           title: new Text(title),
           content: new Text(message),
           actions: [
-            // submitButton(
-            //   buttonText,
-            //   onPressed(),
-            // ),
+             submitButton(
+               "qweqwe",
+               onPressed(),
+             ),
             new TextButton(
               onPressed: () {
                 return onPressed();
